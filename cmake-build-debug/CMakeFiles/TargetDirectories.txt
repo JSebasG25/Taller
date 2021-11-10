@@ -1,0 +1,3 @@
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/cmake-build-debug/CMakeFiles/Nueva_carpeta.dir
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/LinkedList.cpp
+LinkedList.h
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/LinkedList.h
+string
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/string
+
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/LinkedList.h
+vector
+-
+Node.h
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/Node.h
+string
+-
+
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/Node.h
+cstdlib
+-
+
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/Router.h
+string
+-
+ostream
+-
+
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/main.cpp
+iostream
+-
+Router.h
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/Router.h
+LinkedlIST.cpp
+C:/Users/Sebas Garzon/Desktop/UPTC/PROGRA III V2/Nueva carpeta/LinkedList.cpp
+
